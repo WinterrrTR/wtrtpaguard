@@ -1,0 +1,14 @@
+name: wtrTpaGuard
+version: 1.0
+description: A tpa management plugin made by wtrDev
+authors:
+  - wtrDev
+main: com.wtrdev.TpaGuard
+api-version: 1.21
+commands:
+  tpaguard:
+    description: TPA korumasını etkinleştirir.
+    usage: /tpakoruma
+    aliases: [tpakoruma, wtrtpaguard, wtrtpakoruma]
+    permission: tpaprotection.use
+    permission-message: "&cBu komutu kullanmak için iznin yok!"

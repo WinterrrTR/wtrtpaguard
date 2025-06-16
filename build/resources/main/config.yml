@@ -1,0 +1,9 @@
+settings:
+  cooldown: 30000 # Milisaniye cinsinden bekleme süresi (30 saniye)
+
+messages:
+  cooldown: "&cBu komutu tekrar kullanmadan önce biraz beklemelisin."
+  waiting: "&cTPA koruma modu aktif. 30 saniye içinde TPA bekleniyor..."
+  timeout: "&cTPA alınmadı, koruma modu iptal edildi."
+  teleported: "&cTPA alındı. Koruma süresi başladı."
+  returned: "&cSaldırı algılandı! Önceki konuma ışınlandın."
